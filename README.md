@@ -9,7 +9,7 @@ npm install
 
 ## 运行项目
 ```
-npm run serve
+npm run dev
 ```
 
 ## 编译项目
